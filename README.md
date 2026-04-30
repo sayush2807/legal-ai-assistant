@@ -140,5 +140,5 @@ legal-ai-assistant/
 
 ## Author
 
-Ayush Srivastava — MS Data Science @ USF | Data Scientist Intern @ LexisNexis  
+Ayush Srivastava — MS Data Science & Artificial Intelligence @ USF  
 [linkedin.com/in/sayush2807](https://linkedin.com/in/sayush2807) · [sayush2807.github.io/portfolio](https://sayush2807.github.io/portfolio)
